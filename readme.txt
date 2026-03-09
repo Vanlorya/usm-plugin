@@ -5,7 +5,7 @@ Tags: sports, management, attendance, coaching, students
 Requires at least: 6.0
 Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 1.1.1
+Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -94,6 +94,10 @@ Yes, VietQR integration generates dynamic QR codes for bank transfers. Supports 
 8. Parent dashboard with enrollment details
 
 == Changelog ==
+
+= 1.2.0 =
+* **GitHub Auto-Update** — Plugin now checks GitHub for new versions and updates directly from WordPress admin
+* Update Plugin URI to GitHub repository
 
 = 1.1.1 =
 * **Phone Validation** — Relaxed to accept 10 or 11 digits (removed strict prefix check)

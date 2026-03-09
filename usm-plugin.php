@@ -3,7 +3,7 @@
  * Plugin Name: Universal Sports Manager
  * Plugin URI:  https://github.com/Vanlorya/usm-plugin
  * Description: Hệ thống quản lý trung tâm thể thao toàn diện — học viên, HLV, khóa học, điểm danh, lịch dạy, báo cáo.
- * Version:     1.1.1
+ * Version:     1.2.0
  * Author:      USM Team
  * Author URI:  https://github.com/Vanlorya
  * Text Domain: usm
@@ -37,7 +37,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 /**
  * Plugin constants.
  */
-define( 'USM_VERSION', '1.1.1' );
+define( 'USM_VERSION', '1.2.0' );
 define( 'USM_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'USM_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 define( 'USM_PLUGIN_FILE', __FILE__ );
