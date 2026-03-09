@@ -1,0 +1,13 @@
+# Universal Sports Manager Translation Template
+# Copyright (C) 2026 USM Team
+# License: GPL-2.0-or-later
+
+msgid ""
+msgstr ""
+
+"POT-Creation-Date: 2026-03-02 04:00+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: vi\n"
+"X-Domain: usm\n"
