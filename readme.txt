@@ -1,6 +1,6 @@
 === Universal Sports Manager ===
 Contributors: mralb
-Donate link: https://example.com
+Donate link: https://github.com/Vanlorya/usm-plugin
 Tags: sports, management, attendance, coaching, students
 Requires at least: 6.0
 Tested up to: 6.9

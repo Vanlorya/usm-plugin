@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Universal Sports Manager
- * Plugin URI:  https://example.com/usm-plugin
+ * Plugin URI:  https://github.com/Vanlorya/usm-plugin
  * Description: Hệ thống quản lý trung tâm thể thao toàn diện — học viên, HLV, khóa học, điểm danh, lịch dạy, báo cáo.
  * Version:     1.1.1
  * Author:      USM Team
- * Author URI:  https://example.com
+ * Author URI:  https://github.com/Vanlorya
  * Text Domain: usm
  * Domain Path: /languages
  * Requires PHP: 7.4
