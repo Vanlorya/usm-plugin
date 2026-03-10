@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# WordPress
+wp-config.php
+
+# Build artifacts
+*.zip
+node_modules/
+
+# Logs
+*.log
+debug.log
